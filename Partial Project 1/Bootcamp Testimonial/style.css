@@ -1,0 +1,76 @@
+* {
+  font-family: Barlow Semi Condensed;
+  font-size: 13px;
+  margin: 15px;
+}
+
+body {
+    height: auto;
+    margin: auto;
+    background-color: #cfcfcf;
+    display: flex;
+    justify-content: center;
+  }
+
+  h2 {
+    font-weight: 600;
+  }
+  
+  p{
+    font-weight: 300;
+  }
+
+.testimonial_container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1440px;
+  height: 1000px;
+}
+
+.testimonial {
+  background-color: aqua;
+  width: 500px;
+  height: auto;
+  border-radius: 2.5%;
+}
+
+.header {
+  height: 100px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  }
+
+.header img {
+  border-radius: 100%;
+}
+
+#daniel {
+  background-color: #7541c8;
+  color: #ffffff;
+  width: 50%;
+  height: 50%;
+}
+#jonathan {
+  background-color: #48556a;
+  color: #ffffff;
+  width: 25%;
+  height: 50%;
+}
+#patrick {
+  background-color: #19212e;
+  color: #ffffff;
+  width: 50%;
+  height: 50%;
+}
+#kira{
+  background-color: #ffffff;
+  width: 25%;
+  height: 100%;
+}
+#jeanette{
+  background-color: #ffffff;
+  width: 25%;
+  height: 50%;
+}
+
